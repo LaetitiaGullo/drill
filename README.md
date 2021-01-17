@@ -28,4 +28,6 @@ Project carried out as part of the "Junior web developer" training [@ BeCode](ht
 
 ### Images of the project :
 
-![Screenshot of the project]
+![Screenshot of the project](anim1.gif)
+![Screenshot of the project](anim2.gif)
+![Screenshot of the project](anim3.gif)
